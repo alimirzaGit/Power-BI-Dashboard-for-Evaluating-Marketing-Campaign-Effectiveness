@@ -1,13 +1,19 @@
-# Power-BI-Dashboard-for-Evaluating-Marketing-Campaign-Effectiveness
+# Power BI Dashboard for Evaluating Marketing Campaign Effectiveness
+<br/>
+
 ## Project Introduction
 
 The project's requirement was to create a dashboard for a client – a fitness club based in Toronto. Project deliverables included the dashboard (the Power BI file is attached), a project presentation, and a detailed report documenting the business problem, analytics questions, data processing tasks, data analysis, insights, and recommendations.
 
 *Please note that the identities of the client and its members, along with other data, have been anonymized for confidentiality.*
 
+<br/>
+
 ## Business Problem
 
 The client aimed to evaluate the profitability of three marketing campaigns and required a dashboard solution for a comprehensive comparison of revenue and costs associated with each campaign. Additionally, the client expressed the need for a detailed breakdown of campaign revenues and costs attributed to individual members, aiming to determine customer profitability.
+
+<br/>
 
 ## Analytics Questions
 
@@ -16,15 +22,22 @@ The client aimed to evaluate the profitability of three marketing campaigns and 
 3. Among the advertising campaigns, which one demonstrated the highest cost-effectiveness?
 4. What are the demographic characteristics of the club members?
 
+<br/>
+
 ## Data Preprocessing
 
 Python was used for data preprocessing to alleviate processing load on Power BI, thereby enhancing overall efficiency. Data was extracted from client’s servers through APIs, followed by data cleaning that involved tasks such as removing duplicates, handling missing values, and standardizing formats. Subsequently, data was transformed by merging data tables via joins and by performing manipulations for calculating key performance indicators (KPIs), such as the percentage of leads converted. The processed data was then loaded into Power BI to create a dashboard, which was the required data product.
+
+<br/>
 
 ## Solution Implementation
 
 The dashboard, as depicted in the figure below, consists of four interactive dynamic visuals that produce customized information based on the user’s selection. For example, selecting Campaign A in the column chart triggers a corresponding shift in the horizontal bar chart, revealing the geographic distribution specific to members targeted by that campaign. These capabilities not only address the analytics questions mentioned earlier but also empower users to conduct ad-hoc queries.
 
-![Dashboard](https://github.com/alimirzaGit/Power-BI-Dashboard-for-Evaluating-Marketing-Campaign-Effectiveness/blob/main/Dashboard%20Image.png?raw=true)
+![Dashboard Image](https://github.com/alimirzaGit/Power-BI-Dashboard-for-Evaluating-Marketing-Campaign-Effectiveness/blob/main/Dashboard%20Image.png?raw=true)
+<p align="center"><strong>Power BI Dashboard for Evaluating Marketing Campaign Effectiveness</strong></p>
+
+<br/>
 
 ## Description of the Visuals
 
@@ -36,6 +49,8 @@ The dashboard, as depicted in the figure below, consists of four interactive dyn
 
 4. **"Revenue and Cost by Member" Table Visual (Bottom):** Displays the revenues and advertising costs attributed to individual members. This visual aids users in assessing customer profitability and provides quick and convenient access to members’ personal information.
 
+<br/>
+
 ## Analysis, Insights, and Recommendations
 
 *Note: For conciseness, this section presents a summary of a few selected findings.*
@@ -44,16 +59,20 @@ Our analysis identified Campaign A as the sole profitable initiative among the t
 
 Demographic insights revealed that a substantial 59% of members reside in the Scarborough area, which is near the club. Commuting distance and time appear to be decisive factors for membership sign-ups. We advise the club to focus on local advertising in areas accessible within a 30-minute commute. Furthermore, targeting younger audiences and their parents, particularly school-going children in the local vicinity, could establish a base of loyal customer families. Research suggests that brand exposure in childhood fosters brand association and loyalty into adulthood (Ruiz, 2021), potentially securing recurring revenues for the business in the future.
 
+<br/>
+
 ## Reference
 
-Ruiz, S. (2021, January). The effects of childhood nostalgia on brand loyalty. ResearchGate. [Link](https://www.researchgate.net/publication/348391614_THE_EFFECTS_OF_CHILDHOOD_NOSTALGIA_ON_BRAND_LOYALTY)
+[Ruiz, S. (2021, January). The effects of childhood nostalgia on brand loyalty. ResearchGate.](https://www.researchgate.net/publication/348391614_THE_EFFECTS_OF_CHILDHOOD_NOSTALGIA_ON_BRAND_LOYALTY)
+
+<br/>
 
 ## Acknowledgments
 
 The project was part of a Capstone course within the Business Insights and Analytics post-graduate program at Humber College. The project team consisted of the following members:
 
-- Ali Mirza: [LinkedIn](www.linkedin.com/in/m-ali-mirza)
-- Andres Ramirez: [LinkedIn](www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez)
-- Gizelle Lao: [LinkedIn](www.linkedin.com/in/gizellelao)
-- Rafael Muniz: [LinkedIn](www.linkedin.com/in/rafaelfma)
-- Trung Le: [LinkedIn](www.linkedin.com/in/trung-le-analyst)
+- [Ali Mirza](https://www.linkedin.com/in/m-ali-mirza)
+- [Andres Ramirez](https://www.linkedin.com/in/andr%C3%A9s-ram%C3%ADrez)
+- [Gizelle Lao](https://www.linkedin.com/in/gizellelao)
+- [Rafael Muniz](https://www.linkedin.com/in/rafaelfma)
+- [Trung Le](https://www.linkedin.com/in/trung-le-analyst)

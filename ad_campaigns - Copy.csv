@@ -1,0 +1,4 @@
+Campaign,Revenue,Cost,Profit,ROIPct,Impressions,Clicks,CTRPct,CPC,Leads,LeadsConverted,LeadConversionPct,CostPerLeadConversion
+Campaign A,4248.47,712.58,3535.89,496.21,94269,2597,2.75,0.27,201,16,7.96,44.54
+Campaign C,93.56,1578.87,-1485.31,-94.07,241065,3841,1.59,0.41,362,2,0.55,789.44
+Campaign B,359.91,1515.35,-1155.44,-76.25,174020,4569,2.63,0.33,343,4,1.17,378.84

@@ -1,0 +1,23 @@
+ClientID,Name,Email,Phone,Gender,Age,City,PostalCode,Campaign,MembershipType,MembershipContractStatus,AmountOwed,AmountPaid
+72481593,John Doe,john.doe@email.com,11185259990,Male,36,Scarborough,M1E5A7,Campaign A,Flex Pass Punch Pass,Active,111.87,111.87
+30972614,Emily Johnson,emily.johnson@email.com,17464685644,Female,55,Scarborough,M1E4C5,Campaign A,1-Week Trial,Active,96.05,96.05
+48267351,Michael Smith,michael.smith@email.com,19424784294,Male,31,Scarborough,M1P2G4,Campaign A,Family 2,Active,1572.96,549.69
+61754832,Christopher Brown,christopher.brown@email.com,14761567114,Male,55,Scarborough,M1C2K8,Campaign A,Adult - No Cancellation Fee,Frozen,318.45,255.17
+89541236,Alex Taylor,alex.taylor@email.com,14251122220,Unspecified,27,Toronto,M1G3A3,Campaign A,Adult - No Cancellation Fee,Cancelled,24.5,24.5
+35678124,Jessica White,jessica.white@email.com,11357919009,Female,29,Scarborough,M1C3R9,Campaign A,Adult - No Cancellation Fee,Active,381.73,381.73
+24983715,Samantha Davis,samantha.davis@email.com,19419241904,Female,35,Toronto,M1B1H4,Campaign A,Summer Membership,Active,455.5,392.22
+16325478,Jordan Lee,jordan.lee@email.com,13884347385,Unspecified,38,Scarborough,M1E4W5,Campaign A,Adult - No Cancellation Fee,Cancelled,32.66,32.66
+57492831,Olivia Robinson,olivia.robinson@email.com,11361434063,Female,59,Scarborough,M1E3S2,Campaign A,Adult - No Cancellation Fee,Active,398.05,398.05
+78321546,Daniel Miller,daniel.miller@email.com,17472987271,Male,30,Ajax,L1Z0E9,Campaign A,2 Adult - No Cancellation Fee,Frozen,429.4,107.35
+92167435,Taylor Wilson,taylor.wilson@email.com,11947241196,Unspecified,31,Kitchener,N2C1N3,Campaign A,2 Adult - No Cancellation Fee,Frozen,244.77,244.77
+43891257,Ashley Harris,ashley.harris@email.com,18714877510,Female,52,Scarborough,M1C3M8,Campaign A,2 Adult + Children - No Cancellation Fee,Active,794.93,794.93
+60517824,Megan Martin,megan.martin@email.com,18927720992,Female,45,Toronto,M1B4Y2,Campaign A,Adult 22+,Frozen,770.66,329.75
+83741926,Casey Johnson,casey.johnson@email.com,11969221938,Unspecified,40,Toronto,M1K1W5,Campaign A,1 Adult Membership Add On,Active,525.48,175.16
+12458736,Morgan Davis,morgan.davis@email.com,11869381905,Unspecified,20,Scarborough,M1B6C2,Campaign C,Unknown,Unknown,11.3,11.3
+37246185,Brian Smith,brian.smith@email.com,18072521038,Male,32,Scarborough,M1C3T9,Campaign A,Adult 22+,Active,759.36,227.81
+98653417,Taylor Reed,taylor.reed@email.com,11949190418,Unspecified,60,Scarborough,M1C5B4,Campaign A,Adult - Group Membership,Active,683.4,126.76
+71569248,Lauren King,lauren.king@email.com,18089673080,Female,20,Toronto,M1G2Y8,Campaign B,Summer Membership,Active,82.16,82.16
+54836721,Cameron White,cameron.white@email.com,17487231684,Unspecified,26,Scarborough,M1W3M2,Campaign B,1-Week Trial,Expired,111.87,111.87
+43982157,Joshua Brown,joshua.brown@email.com,17675473615,Male,41,Scarborough,M1B5K8,Campaign B,2 Adults,Active,1288.2,107.35
+68257413,Ryan Clark,ryan.clark@email.com,11679244393,Male,33,Toronto,M1E2L6,Campaign C,Summer Membership,Active,145.54,82.26
+17384625,Taylor Parker,taylor.parker@email.com,18744956101,Unspecified,37,Toronto,M1B5X1,Campaign B,Summer Membership,Active,105.99,58.53

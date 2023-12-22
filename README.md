@@ -24,7 +24,7 @@ Python was used for data preprocessing to alleviate processing load on Power BI,
 
 The dashboard, as depicted in the figure below, consists of four interactive dynamic visuals that produce customized information based on the user’s selection. For example, selecting Campaign A in the column chart triggers a corresponding shift in the horizontal bar chart, revealing the geographic distribution specific to members targeted by that campaign. These capabilities not only address the analytics questions mentioned earlier but also empower users to conduct ad-hoc queries.
 
-
+![Dashboard](https://github.com/alimirzaGit/Power-BI-Dashboard-for-Evaluating-Marketing-Campaign-Effectiveness/blob/main/Dashboard%20Image.png?raw=true)
 
 ## Description of the Visuals
 
